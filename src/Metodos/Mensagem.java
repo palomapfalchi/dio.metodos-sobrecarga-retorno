@@ -1,4 +1,4 @@
-//Bom dia, boa tarde ou boa noite
+package Metodos;//Bom dia, boa tarde ou boa noite
 
 public class Mensagem {
 

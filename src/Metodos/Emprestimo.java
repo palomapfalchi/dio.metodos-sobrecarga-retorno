@@ -1,3 +1,5 @@
+package Metodos;
+
 public class Emprestimo {
 
     public static int getDuasParcelas() {

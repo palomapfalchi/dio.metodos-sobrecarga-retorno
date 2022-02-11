@@ -1,3 +1,5 @@
+package Metodos;
+
 /** calculadora: soma, substração, divisao e multiplicação */
 
 public class Calculadora {
